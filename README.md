@@ -159,5 +159,5 @@ applications.
 </p>
 
 <p align="right">
-  <a href="link-to-lab-5-repo">Lab 5 — Okta MFA & Adaptive Authentication ➡</a>
+  <a href="(https://github.com/RyanKennon/okta-mfa-adaptive-authentication/tree/main)">Lab 5 — Okta MFA & Adaptive Authentication ➡</a>
 </p>
