@@ -152,13 +152,6 @@ applications.
   <img width="587" height="352" alt="image" src="https://github.com/user-attachments/assets/8873e218-4762-4ea6-8679-0425622b0054" />
 </p>
 
-16. In an **Incognito** browser sign in to **Okta** as **John Smith**
-17. Confirm that the **Slack SP** and the **Sharepoint SP** apps appear
-
-<p align="center">
-  <img width="587" height="352" alt="image" src="https://github.com/user-attachments/assets/88933ffe-6e15-4867-bcf7-846cc00b212f" />
-</p>
-
 18. In an **Incognito** browser sign in to **Okta** as **Lisa Park**
 19. Confirm that the **Slack SP, Sharepoint SP, and the Google Workspace SP** apps appear
 
