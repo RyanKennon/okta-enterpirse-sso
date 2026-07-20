@@ -145,6 +145,27 @@ applications.
   <img width="758" height="581" alt="image" src="https://github.com/user-attachments/assets/447a90b8-4f8f-4ffe-ab1a-0a717117b9c8" />
 </p>
 
+14. In an **Incognito** browser sign in to **Okta** as **John Smith**
+15. Confirm that the **Slack SP** and the **Sharepoint SP** apps appear
+
+<p align="center">
+  <img width="587" height="352" alt="image" src="https://github.com/user-attachments/assets/8873e218-4762-4ea6-8679-0425622b0054" />
+</p>
+
+16. In an **Incognito** browser sign in to **Okta** as **John Smith**
+17. Confirm that the **Slack SP** and the **Sharepoint SP** apps appear
+
+<p align="center">
+  <img width="587" height="352" alt="image" src="https://github.com/user-attachments/assets/88933ffe-6e15-4867-bcf7-846cc00b212f" />
+</p>
+
+18. In an **Incognito** browser sign in to **Okta** as **Lisa Park**
+19. Confirm that the **Slack SP, Sharepoint SP, and the Google Workspace SP** apps appear
+
+<p align="center">
+  <img width="560" height="347" alt="image" src="https://github.com/user-attachments/assets/0c4457b5-932b-450d-91dc-461d7804aca2" />
+</p>
+
 ---
 
 > **Note:** This lab is intentionally left open. The SAML app integrations 
